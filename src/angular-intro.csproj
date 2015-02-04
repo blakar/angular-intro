@@ -54,6 +54,7 @@
     <Content Include="Example-01\example01.htm" />
     <Content Include="Example-02\Example02.htm" />
     <Content Include="Example-03\Example03.htm" />
+    <Content Include="Example-04\Example04.htm" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
