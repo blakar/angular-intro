@@ -51,6 +51,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Example-28\Example28.htm" />
     <Content Include="Example-01\example01.htm" />
     <Content Include="Example-02\Example02.htm" />
     <Content Include="Example-03\Example03.htm" />
@@ -91,6 +92,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Example-28\countries.json" />
     <None Include="Example-20\countries.json" />
     <None Include="Example-21\countries.json" />
     <None Include="Example-22\countries.json" />
