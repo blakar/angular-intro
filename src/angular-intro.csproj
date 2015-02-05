@@ -67,6 +67,8 @@
     <Content Include="Example-14\Example14.htm" />
     <Content Include="Example-15\Example15.htm" />
     <Content Include="Example-16\Example16.htm" />
+    <Content Include="Example-17\Example17.htm" />
+    <Content Include="Example-18\Example18.htm" />
     <Content Include="Readme.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
