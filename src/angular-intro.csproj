@@ -73,7 +73,8 @@
     <Content Include="Example-20\Example20.htm" />
     <Content Include="Example-21\Example21.htm" />
     <Content Include="Example-22\Example22.htm" />
-    <Content Include="Example-23\Example22.htm" />
+    <Content Include="Example-23\Example23.htm" />
+    <Content Include="Example-24\Example24.htm" />
     <Content Include="Readme.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -91,6 +92,7 @@
     <None Include="Example-21\countries.json" />
     <None Include="Example-22\countries.json" />
     <None Include="Example-23\countries.json" />
+    <None Include="Example-24\countries.json" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
