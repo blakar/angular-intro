@@ -84,6 +84,7 @@
     <Content Include="Example-31\Example31.htm" />
     <Content Include="Example-32\Example32.htm" />
     <Content Include="Example-33\Example33.htm" />
+    <Content Include="Example-34\Example34.htm" />
     <Content Include="Readme.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -111,6 +112,7 @@
     <None Include="Example-31\countries.json" />
     <None Include="Example-32\countries.json" />
     <None Include="Example-33\countries.json" />
+    <None Include="Example-34\countries.json" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
